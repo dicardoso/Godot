@@ -5,7 +5,7 @@ var res_moeda
 var res_queijo
 
 var pontuacao = 0
-var vida = 10
+var vida = 100
 
 onready var controlSample = get_node("SamplePlayer2D")
 onready var controlAudioBG = get_node("BG")
